@@ -1,0 +1,22 @@
+01) insert a node at beginning
+02) insert a node at end
+03) insert at any position
+04) delete a node at any position
+05) reverse a linked list
+06) print in reverse
+07) delete duplicates in a ll
+08) merge two sorted ll
+09) find the nth node from end
+10) cycle detection
+11) merge print of two ll
+12) check whether ll is palindrome or not
+13) find the middle node of ll
+14) compare two ll
+15) swap node pair wise
+16) flattening all
+17) reverse k nodes after n nodes
+18) delete the loop in ll
+19) rotate a ll  k  nodes
+20) add two number to a ll
+
+

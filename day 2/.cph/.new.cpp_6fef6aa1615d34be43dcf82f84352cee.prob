@@ -1,0 +1,1 @@
+{"name":"Local: new","url":"c:\\Users\\shaik\\OneDrive\\Desktop\\Impact Training\\day 2\\new.cpp","tests":[{"id":1683700951179,"input":"4\n10000 240 100 1","output":"240000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shaik\\OneDrive\\Desktop\\Impact Training\\day 2\\new.cpp","group":"local","local":true}
